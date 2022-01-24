@@ -1,0 +1,76 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|F3||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Context=None|
+Groups=Start:1
+1|[LoopStart]|LoopStart|0|0|Loop|||||1|
+2|WinActivate||1|333|WinActivate||CODE VEIN  ahk_class 9B13F26F-8B4A-4705-8E94-2C6E2BBA1561-CodeVein|||3|
+3|[Pause]||1|2734|Sleep|||||5|
+4|s Down|{s Down}|1|0|Send|||||6|
+5|[Pause]||1|1453|Sleep|||||7|
+6|s Up|{s Up}|1|0|Send|||||8|
+7|[Pause]||1|657|Sleep|||||9|
+8|e Down|{e Down}|1|0|Send|||||10|
+9|[Pause]||1|46|Sleep|||||11|
+10|e Up|{e Up}|1|0|Send|||||12|
+11|[Pause]||1|3313|Sleep|||||13|
+12|a Down|{a Down}|1|0|Send|||||14|
+13|[Pause]||1|1187|Sleep|||||15|
+14|a Up|{a Up}|1|0|Send|||||16|
+15|[Pause]||1|1047|Sleep|||||17|
+16|RShift Down|{RShift Down}|1|0|Send|||||18|
+17|[Pause]||1|891|Sleep|||||19|
+18|F2|{F2}|1|0|Send|||||20|
+19|[Pause]||1|750|Sleep|||||21|
+20|F6|{F6}|1|0|Send|||||22|
+21|[Pause]||1|750|Sleep|||||23|
+22|F8|{F8}|1|0|Send|||||24|
+23|[Pause]||1|2000|Sleep|||||25|
+24|F4|{F4}|1|0|Send|||||26|
+25|[Pause]||1|5000|Sleep|||||27|
+26|F4|{F4}|1|0|Send|||||28|
+27|[Pause]||1|2000|Sleep|||||29|
+28|F1|{F1}|1|0|Send|||||30|
+29|[Pause]||1|750|Sleep|||||31|
+30|F3|{F3}|1|0|Send|||||32|
+31|[Pause]||1|750|Sleep|||||33|
+32|F7|{F7}|1|0|Send|||||34|
+33|[Pause]||1|750|Sleep|||||35|
+34|F5|{F5}|1|0|Send|||||36|
+35|[Pause]||1|625|Sleep|||||37|
+36|RShift Up|{RShift Up}|1|0|Send|||||38|
+37|[Pause]||1|625|Sleep|||||39|
+38|a Down|{a Down}|1|0|Send|||||40|
+39|[Pause]||1|1172|Sleep|||||41|
+40|a Up|{a Up}|1|0|Send|||||42|
+41|[Pause]||1|547|Sleep|||||43|
+42|w Down|{w Down}|1|0|Send|||||44|
+43|[Pause]||1|1200|Sleep|||||45|
+44|w Up|{w Up}|1|0|Send|||||46|
+45|[Pause]||1|547|Sleep|||||47|
+46|a Down|{a Down}|1|0|Send|||||48|
+47|[Pause]||1|2000|Sleep|||||49|
+48|a Up|{a Up}|1|0|Send|||||50|
+49|[Pause]||1|250|Sleep|||||51|
+50|w Down|{w Down}|1|0|Send|||||52|
+51|[Pause]||1|1250|Sleep|||||53|
+52|w Up|{w Up}|1|0|Send|||||54|
+53|[Pause]||1|437|Sleep|||||55|
+54|Right Click|Right, , Down|1|0|Click|||||56|
+55|[Pause]||1|2547|Sleep|||||57|
+56|Right Click|Right, , Up|1|0|Click|||||58|
+57|[Pause]||1|1985|Sleep|||||59|
+58|Move|1280, 720, 0|1|0|Click|||||60|
+59|Down Down|{Down Down}|1|0|Send|||||61|
+60|[Pause]||1|78|Sleep|||||62|
+61|Down Up|{Down Up}|1|0|Send|||||63|
+62|[Pause]||1|640|Sleep|||||64|
+63|Up Down|{Up Down}|1|0|Send|||||65|
+64|[Pause]||1|47|Sleep|||||66|
+65|Up Up|{Up Up}|1|0|Send|||||67|
+66|[Pause]||1|500|Sleep|||||68|
+67|Enter Down|{Enter Down}|1|0|Send|||||69|
+68|[Pause]||1|63|Sleep|||||70|
+69|Enter Up|{Enter Up}|1|0|Send|||||71|
+70|[Pause]||1|10000|Sleep|||||72|
+71|[LoopEnd]|LoopEnd|1|0|Loop|||||73|
+
